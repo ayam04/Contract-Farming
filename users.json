@@ -1,0 +1,12 @@
+[
+  {
+    "username": "a@g.com",
+    "password": "$2b$10$v1YR2SHbbBisjfekKJJ3s.nFD/6D5FgayROls0IARHPZ971vKIcfS",
+    "role": "farmer"
+  },
+  {
+    "username": "b@g.com",
+    "password": "$2b$10$SaPIa0/6XcVks4bGUJsZpOC5HbSu8hexlcSxg7IXo4vXWibx8Vmeq",
+    "role": "buyer"
+  }
+]

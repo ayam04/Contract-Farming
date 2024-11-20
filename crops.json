@@ -1,0 +1,20 @@
+[
+  {
+    "id": "e29b7a88-7368-4977-8b29-d447f2a5ed9e",
+    "name": "Apple",
+    "description": "Seasonal",
+    "location": "Jaipur",
+    "price": 120,
+    "farmer": "a@g.com",
+    "image": "/uploads/image-1732125412391-766165082.jpg"
+  },
+  {
+    "id": "7b0e03a5-dde5-4f5a-96a0-c26ff936124b",
+    "name": "Rice",
+    "description": "Seasonal",
+    "location": "New Delhi",
+    "price": 70,
+    "farmer": "a@g.com",
+    "image": "/uploads/image-1732125931658-737325245.jpg"
+  }
+]
